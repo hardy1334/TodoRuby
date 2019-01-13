@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Its a basic app to perform *CRUD* operations using Rails 5.
 
-Things you may want to cover:
+# SETUP
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<b>*</b><em>Ruby needs to be installed on the system along with Rails (any version greater than 5)</em><br><br>
+<b>*</b><em>To install, you need to run</em> <b>gem bundle install</b>
